@@ -15,6 +15,8 @@ Technische Universität Berlin <br> <br>
 
 GitHub => Mostly copies of our research codes.
 
+> Make before you Manage
+
 # Links
 
 * [Homepage](http://www.pokutta.com)
