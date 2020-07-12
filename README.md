@@ -1,4 +1,4 @@
-**Prof. Dr. Sebastian Pokutta** <br><br>
+**Sebastian Pokutta** <br><br>
 Vice President and Division Head <br>
 Mathematical Algorithmic Intelligence <br>
 AI in Society, Science, and Technology (AIS²T) <br>
