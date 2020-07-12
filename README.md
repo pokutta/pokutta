@@ -13,7 +13,7 @@ Technische Universität Berlin <br> <br>
 
 **Research Lab.** My [group](https://iol.zib.de/) is interested in Artificial Intelligence, Optimization, and Machine Learning. We develop new methodologies (e.g., new optimization and learning algorithms), work on combining learning and decision-making, as well as design AI Systems for real-world deployment in various application contexts. [[more]](https://iol.zib.de/research/) <br> <br>
 
-## GitHub => Mostly copies of our research codes.
+GitHub => Mostly copies of our research codes.
 
 # Links
 
