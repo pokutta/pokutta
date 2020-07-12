@@ -23,7 +23,7 @@ GitHub => Mostly copies of our research codes.
 
 # Related Projects and Codes
 
-## SCIP related codes
+## SCIP optimization suite
 * [SCIP Homepage](https://www.scipopt.org/)
 * [SCIP on Docker Hub](https://hub.docker.com/r/scipoptsuite/scipoptsuite); see also [here](http://www.pokutta.com/blog/pages/scip/scip-teaching.html)
 * [SCIP interfaces](https://github.com/SCIP-Interfaces/PySCIPOpt)
