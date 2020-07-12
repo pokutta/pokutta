@@ -13,6 +13,6 @@ Technische Universität Berlin <br> <br>
 
 # Links
 
-[Homepage](http://www.pokutta.com)
-[Research Group](https://iol.zib.de)
-[Blog](http://www.pokutta.com/blog)
+* [Homepage](http://www.pokutta.com)
+* [Research Group](https://iol.zib.de)
+* [Blog](http://www.pokutta.com/blog)
