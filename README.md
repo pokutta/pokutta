@@ -29,4 +29,3 @@ GitHub => Mostly copies of our research codes.
 * [SCIP interfaces](https://github.com/SCIP-Interfaces/PySCIPOpt)
 
 
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=spokutta)](https://github.com/anuraghazra/github-readme-stats)
