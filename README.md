@@ -27,3 +27,6 @@ GitHub => Mostly copies of our research codes.
 * [SCIP Homepage](https://www.scipopt.org/)
 * [SCIP on Docker Hub](https://hub.docker.com/r/scipoptsuite/scipoptsuite); see also [here](http://www.pokutta.com/blog/pages/scip/scip-teaching.html)
 * [SCIP interfaces](https://github.com/SCIP-Interfaces/PySCIPOpt)
+
+
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=spokutta)](https://github.com/anuraghazra/github-readme-stats)
