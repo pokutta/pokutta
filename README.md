@@ -21,11 +21,15 @@ GitHub => Mostly copies of our research codes.
 * [Research Group](https://iol.zib.de)
 * [Blog](http://www.pokutta.com/blog)
 
-# Related Projects and Codes
+# Projects and Codes
+
+## Select Frank-Wolfe related projects
+* [FrankWolfe.jl](https://github.com/ZIB-IOL/FrankWolfe.jl)
+* [Boscia.jl](https://github.com/ZIB-IOL/Boscia.jl)
 
 ## SCIP optimization suite
 * [SCIP Homepage](https://www.scipopt.org/)
 * [SCIP on Docker Hub](https://hub.docker.com/r/scipoptsuite/scipoptsuite); see also [here](http://www.pokutta.com/blog/pages/scip/scip-teaching.html)
 * [SCIP interfaces](https://github.com/SCIP-Interfaces/PySCIPOpt)
 
-
+For a full list of repositories see [ZIB-IOL on github](https://github.com/ZIB-IOL) 
